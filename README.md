@@ -1,4 +1,4 @@
-# [Codecov][1] TypeScript Example
+# [Codecov][1] TypeScript Example - test
 
 [1]: https://codecov.io/
 [2]: https://twitter.com/codecov
